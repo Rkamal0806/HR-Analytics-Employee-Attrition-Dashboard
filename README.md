@@ -67,7 +67,7 @@ Throughout this project:
 
 ## Dashboard
 
-![HR Analytics Dashboard](HR Analytics dashboard.png)
+![HR Analytics Dashboard](hr_dashboard.png)
 
 # 👩‍💻 Author
 
